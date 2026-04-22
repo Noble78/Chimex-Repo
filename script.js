@@ -224,4 +224,18 @@
 
 //     console.log(response, "this is the response");
 // }
-// fetchData()
+// fetchData(),
+//Async call means that the function will return a promise, and the await keyword is used to wait for the promise to resolve before moving on to the next line of code.
+// Promise is an object that represents the eventual completion (or failure) of an asynchronous operation and its resulting value. 
+// It is used to handle asynchronous operations in JavaScript, and it allows us to write asynchronous code in a more synchronous way.   
+// Exceptions are errors that occur during the execution of a program, and they can be handled using try...catch statements. The try block contains the code that may throw an exception, 
+// and the catch block contains the code that will handle the exception if it occurs. The finally block contains code that will be executed regardless of whether an exception was thrown or not.
+// Promise has three possible states: pending, fulfilled, and rejected. 
+// Pending means that the promise is still in the process of being resolved, fulfilled means that the promise has been resolved successfully, and rejected means that the promise has been resolved with an error.
+// json stands for  javascript object notation,
+//  it is a lightweight data interchange format that is easy for humans to read and write, 
+// and easy for machines to parse and generate. It is often used to exchange data between a server and a web application, and it is also used to store data in a structured format.
+// jS EVENTS
+// an event is an action that occurs in the browser, and it can be triggered by the user or by the browser itself.
+// event listeners are functions that are called when an event occurs, and they are used to handle events in JavaScript. 
+// They can be added to an element using the addEventListener() method, and they can be removed using the removeEventListener() method.
